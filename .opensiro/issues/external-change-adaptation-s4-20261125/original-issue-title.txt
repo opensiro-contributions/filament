@@ -1,0 +1,1 @@
+Proposal: opt-in external-change adaptation for Filament task graphs — Opensiro VSM architecture review
