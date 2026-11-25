@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "20261125T192153Z--filament-roadmap-bootstrap",
+  "recorded_at": "2026-11-25T19:21:53Z",
+  "actor": "OpenSiro AI roadmap executor",
+  "kind": "DECISION",
+  "decision": "Owner-directed admitted roadmap case; protocol 2026-11-19 issue-queue ACTIVE/ALLOW baseline and current instruction to continue to publication proposal; no publication consent",
+  "case_id": "external-change-adaptation-s4-20261125",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/issues/58",
+    "https://github.com/opensiro/upstream/blob/55e2ca7bc27b1f202bc0be97e922ebb875f81056/PROTOCOL.md"
+  ],
+  "next_action": "History and native form verification before exact owner review"
+}
