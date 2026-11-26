@@ -12,7 +12,7 @@ A developer could configure a watcher to assess a future external change and, wi
 
 **Closest existing project-native solution:** read a watcher's result and ask the graph planner to create a task; use existing guidance where its trigger allows it.
 
-**Existing discussion:** [#2](https://github.com/invertibleMatrix/filament/issues/2) and [#3](https://github.com/invertibleMatrix/filament/issues/3) concern concrete provider compatibility; [#5](https://github.com/invertibleMatrix/filament/issues/5) concerns present worker budgets. Five original Issues open and no PRs at review time. No matching prospective adaptation proposal found within the bounded search, not proof of global novelty.
+**Existing discussion:** [#2](https://github.com/invertibleMatrix/filament/issues/2) and [#3](https://github.com/invertibleMatrix/filament/issues/3) concern concrete provider compatibility; [#5](https://github.com/invertibleMatrix/filament/issues/5) concerns present worker budgets. Seven original Issues open and no PRs at publication review time. [#6](https://github.com/invertibleMatrix/filament/issues/6) concerns project-memory isolation and [#7](https://github.com/invertibleMatrix/filament/issues/7) concerns context compaction; neither asks for this prospective adaptation path. No matching prospective adaptation proposal found within the bounded search, not proof of global novelty.
 
 ## How we reached this proposal — Opensiro VSM assessment
 
@@ -22,7 +22,7 @@ OpenSiro studies organizational functions and decision ownership, not product qu
 
 **Boundary:** one native Filament coding chat, task graph and subordinate workers/beside-team; an optional Space watcher serving that chat. Not unrelated projects, external clients or business governance.
 
-**Current original HEAD:** [90cf0c20f3fd2d55a73994963427f2fd2532b970](https://github.com/invertibleMatrix/filament/commit/90cf0c20f3fd2d55a73994963427f2fd2532b970), observed 2026-11-25.
+**Current original HEAD:** [295100e9a0db7553475ea433532c8858dd9fa5e2](https://github.com/invertibleMatrix/filament/commit/295100e9a0db7553475ea433532c8858dd9fa5e2), observed 2026-11-26. Routine/guidance constraints are unchanged; new graph task-check interfaces and filesystem watcher recovery do not themselves provide the proposed prospective choice/commitment/return path.
 
 | Key | Organizational function | Historical state | Evidence or limitation |
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ States: `A` autonomous decision ownership; `C` supported function-specific const
 
 **Minimal proposed addition:** optional owner-approved same-Space native-chat target and limited prospective choices, a revision-checked graph commitment or refusal, and durable feedback of its later result.
 
-**Scope exclusions:** no automatic provider switch, secret access, arbitrary cross-chat guidance, policy edits or extra daemon. Preserve existing pause, privacy and permission boundaries. The graph planner still owns scheduling and integration.
+**Scope exclusions:** no automatic provider switch, secret access, arbitrary cross-chat guidance, policy edits or extra daemon. Preserve existing pause, privacy and permission boundaries, including strict same-Space data isolation and no cross-project memory exposure. The graph planner still owns scheduling and integration.
 
 ## Proposed approach and validation
 

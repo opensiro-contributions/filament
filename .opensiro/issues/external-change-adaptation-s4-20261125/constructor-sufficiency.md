@@ -20,7 +20,7 @@
 | Authority/effect | Switch on; guide limited | explicit scope and graph add/keep | scope breach |
 | Return | guide delivery and graph | event/task/result correlation | delivery only |
 **On-top distinctness:** Not generic guide, outage retry or budget cap.
-**Source ambiguity / rights blockers:** Optional composition not runtime tested; no proof of absence; public posting gated.
+**Source ambiguity / rights blockers:** Optional composition not runtime tested; no proof of absence; public posting gated. Publication refresh 295100e9a0db7553475ea433532c8858dd9fa5e2: unchanged routine/guidance constraints; new taskCheck/turnMode/run_check is scoped checking, not an external-event graph mutation. File/commit watcher changes address inaccessible drives. Explicitly reject cross-project memory exposure (#6).
 
 ## 3. Minimal complete S4 first-party C construction
 **Required property:** Composed autonomous actor with lawful choice, durable effect and feedback.
